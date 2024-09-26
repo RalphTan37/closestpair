@@ -16,5 +16,5 @@ The driver takes care of pseudorandomly generating N points with nonnegative int
 
 **compareByY(a, b)**, a boolean function that can be used with the standard sorting tools to sort a collection of points according to y-coordinate (and using the x-coordinate as a tie-breaker). </br>
 
-Our codebase also includes the definition for a simple Outcome struct, which allows an algorithm to return the pair of closests points and the square of the distance between them. </br>
+The codebase also includes the definition for a simple Outcome struct, which allows an algorithm to return the pair of closests points and the square of the distance between them. </br>
 
